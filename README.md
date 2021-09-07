@@ -19,7 +19,7 @@ ___
 - **[Задачи курса на Kotlin](https://github.com/Daniil62/Job4j-Kotlin)**
 - **[Приложение "Список дел" (Java, Room)](https://github.com/Daniil62/ToDoList)**
 - **[Игра "Крестики-Нолики" (Kotlin)](https://github.com/Daniil62/TicTacToy-Kotlin)**
-- **[Приложение "Прогноз Погоды" (Java, Retrofit, Room, OpenStreetMaps)](https://github.com/Daniil62/WeatherForecast)**
+- **[Приложение "Прогноз Погоды" (Java, Retrofit, Room, RxJava2, OpenStreetMaps)](https://github.com/Daniil62/WeatherForecast)**
 - **[Приложение "Курсы валют" (Java, SQLiteOpenHelper)](https://github.com/Daniil62/Currency)** *более не работает так как API перевели на платную основу*
 
 <!--
