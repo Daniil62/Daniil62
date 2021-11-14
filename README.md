@@ -15,7 +15,7 @@ ___
 ___
 ## Учебные проекты
 
-- **[Задачи курса на Java](https://github.com/Daniil62/job4j)**
+- **Задачи курса на Java: [раздел 1](https://github.com/Daniil62/job4j), [Раздел 2](https://github.com/Daniil62/job4j_design)**
 - **[Задачи курса на Kotlin](https://github.com/Daniil62/Job4j-Kotlin)**
 - **[Приложение "Список дел" (Java, Room)](https://github.com/Daniil62/ToDoList)**
 - **[Игра "Крестики-Нолики" (Kotlin)](https://github.com/Daniil62/TicTacToy-Kotlin)**
