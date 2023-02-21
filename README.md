@@ -2,11 +2,15 @@
 ___
 Изучал **Java**, **Kotlin** и **Android** на :point_right: **[Job4j](https://job4j.ru/)** :point_left:
 ___
-![Alt-текст](https://img.shields.io/badge/Java-%3E%3D8-red)
-![Alt-текст](https://img.shields.io/badge/Kotlin-%3E%3D1.3.72-blue)
-![Alt-текст](https://img.shields.io/badge/SQLite-%3E%3D3.35-green)
-![Alt-текст](https://img.shields.io/badge/Retrofit-%3E%3D2.9.0-yellow)
-![Alt-текст](https://img.shields.io/badge/Room-%3E%3D2.3.0-orange)
+![Alt--](https://img.shields.io/badge/Java-%3E%3D8-red)
+![Alt--](https://img.shields.io/badge/Spring-%3E%3D6.03-brightgreen)
+![Alt--](https://img.shields.io/badge/Spring%20Boot-%3E%3D6.0-yellowgreen)
+![Alt--](https://img.shields.io/badge/Hibernate-%3E%3D6.0-blue)
+![Alt--](https://img.shields.io/badge/PostgreSQL-%3E%3D12-orange)
+![Alt--](https://img.shields.io/badge/Kotlin-%3E%3D1.3.72-blue)
+![Alt--](https://img.shields.io/badge/SQLite-%3E%3D3.35-green)
+![Alt--](https://img.shields.io/badge/Retrofit-%3E%3D2.9.0-yellow)
+![Alt--](https://img.shields.io/badge/Room-%3E%3D2.3.0-orange)
 ___
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Daniil62&hide=stars,prs,issues,contribs)
