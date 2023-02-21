@@ -15,12 +15,19 @@ ___
 ___
 ## Учебные проекты
 
-- **Задачи курса на Java: [раздел 1](https://github.com/Daniil62/job4j), [Раздел 2](https://github.com/Daniil62/job4j_design)**
-- **[Задачи курса на Kotlin](https://github.com/Daniil62/Job4j-Kotlin)**
-- **[Приложение "Список дел" (Java, Room)](https://github.com/Daniil62/ToDoList)**
-- **[Игра "Крестики-Нолики" (Kotlin)](https://github.com/Daniil62/TicTacToy-Kotlin)**
-- **[Приложение "Прогноз Погоды" (Java, Retrofit, Room, RxJava2, OpenStreetMaps)](https://github.com/Daniil62/WeatherForecast)**
-- **[Приложение "Курсы валют" (Java, SQLiteOpenHelper)](https://github.com/Daniil62/Currency)** *более не работает так как API перевели на платную основу*
+- Задачи и проекты курса на Java:
+   - **[раздел 1](https://github.com/Daniil62/job4j)**
+   - **[Раздел 2](https://github.com/Daniil62/job4j_design)**
+   - **[Проект "Job4j_grabber" (агрегатор Java вакансий)](https://github.com/Daniil62/job4j_grabber)**
+   - **[Проект "Job4j_Cinema" (Spring Boot, Bootstrap, Thymeleaf, JDBC, Liquibase, H2, Mockito)](https://github.com/Daniil62/Job4j_Cinema)**
+   - **[Проект "Job4j_Cars" (Spring Boot, Thymeleaf, Bootstrap, Hibernate, JDBC, Liquibase)](https://github.com/Daniil62/Job4j_Cars)**
+   - **[Проект Job4j_Accidents (Spring, Spring Secyrity, JDBC, PostgreSql, Thymeleaf, Bootstrap)](https://github.com/Daniil62/Job4j_Accidents)**
+   - **[Проект "Job4j_URL_Shortcut" (Spring Boot, Spring Security, JPA, PostgreSql, Liquibase, H2)](https://github.com/Daniil62/Job4j_URL_Shortcut)**
+
+- Android:
+   - **[Приложение "Список дел" (Android, Java, Room)](https://github.com/Daniil62/ToDoList)**
+   - **[Игра "Крестики-Нолики" (Android, Kotlin)](https://github.com/Daniil62/TicTacToy-Kotlin)**
+   - **[Приложение "Прогноз Погоды" (Java, Retrofit, Room, RxJava2, OpenStreetMaps)](https://github.com/Daniil62/WeatherForecast)**
 
 <!--
 **Daniil62/Daniil62** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
