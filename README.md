@@ -20,8 +20,6 @@ ___
 ## Учебные проекты
 
 - Задачи и проекты курса на Java:
-   - **[раздел 1](https://github.com/Daniil62/job4j)**
-   - **[Раздел 2](https://github.com/Daniil62/job4j_design)**
    - **[Проект "Job4j_grabber" (агрегатор Java вакансий)](https://github.com/Daniil62/job4j_grabber)**
    - **[Проект "Job4j_Cinema" (Spring Boot, Bootstrap, Thymeleaf, JDBC, Liquibase, H2, Mockito)](https://github.com/Daniil62/Job4j_Cinema)**
    - **[Проект "Job4j_Cars" (Spring Boot, Thymeleaf, Bootstrap, Hibernate, JDBC, Liquibase)](https://github.com/Daniil62/Job4j_Cars)**
