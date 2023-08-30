@@ -27,7 +27,6 @@ ___
    - **[Проект "Job4j_URL_Shortcut" (Spring Boot, Spring Security, JPA, PostgreSql, Liquibase, H2)](https://github.com/Daniil62/Job4j_URL_Shortcut)**
 
 - Android:
-   - **[Приложение "Список дел" (Android, Java, Room)](https://github.com/Daniil62/ToDoList)**
    - **[Игра "Крестики-Нолики" (Android, Kotlin)](https://github.com/Daniil62/TicTacToy-Kotlin)**
    - **[Приложение "Прогноз Погоды" (Java, Retrofit, Room, RxJava2, OpenStreetMaps)](https://github.com/Daniil62/WeatherForecast)**
 
